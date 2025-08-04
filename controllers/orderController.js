@@ -1,5 +1,5 @@
 // server/controllers/orderController.js
-import Order from '../models/Order.js';
+import Order from '../models/order.js';
 import PDFDocument from 'pdfkit';
 
 // Kullanıcı: Sipariş oluştur
